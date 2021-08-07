@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @risaav
-- 👀 I’m interested in web development &software development
+##- 👋 Hi, I’m @risaav
+- 👀 I’m interested in web development machine learning and cloud computing.
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on startup which involves any new sector
 - 📫 How to reach me .
