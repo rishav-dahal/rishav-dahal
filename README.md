@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development machine learning and cloud computing.
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on startup which involves any new sector
-- 📫 How to reach me .
+- 📫 How to reach me:Email:dahalrishav58@gmail.com
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rishav-dahal&show_icons=true" alt="rishav-dahal" /> 
