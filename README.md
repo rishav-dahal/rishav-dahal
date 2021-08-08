@@ -5,7 +5,7 @@
 - 📫 How to reach me .
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=theonlynischal&show_icons=true" alt="theonlynischal" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rishav-dahal&show_icons=true" alt="rishav-dahal" /> 
 
 </p>
 
