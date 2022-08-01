@@ -41,7 +41,7 @@
   </tbody>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-dahal&layout=compact&theme=tokyonight)](https://github.com/roshav-dahal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-dahal&layout=compact&theme=tokyonight)](https://github.com/rishav-dahal/github-readme-stats)
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rishav-dahal.rishav-dahal)
