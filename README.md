@@ -27,7 +27,7 @@
       </td>
       <td width="20%" align="center">
         <span>C++</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/cpp.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="20%" align="center">
         <span>PHP</span><br>
