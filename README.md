@@ -34,6 +34,10 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
+        <span>Javascript</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="20%" align="center">
         <span>Mysql</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
