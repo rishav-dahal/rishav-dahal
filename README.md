@@ -14,34 +14,34 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Python</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="20%" align="center">
         <span>C</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Javascript</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
         <span>C++</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
+       <td width="20%" align="center">
+        <span>Javascript</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
       <td width="20%" align="center">
         <span>PHP</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
-    </tr>
-    <tr>
-      <td width="20%" align="center">
-        <span>Java</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
       <td width="20%" align="center">
         <span>Mysql</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+    </tr>
+    <tr>
+      <td width="20%" align="center">
+        <span>Python</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Java</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="20%" align="center">
         <span>Postgresql</span><br>
