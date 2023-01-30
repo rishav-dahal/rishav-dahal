@@ -33,8 +33,10 @@
         <span>PHP</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
+    </tr>
+    <tr>
       <td width="20%" align="center">
-        <span>Javascript</span><br>
+        <span>Java</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="20%" align="center">
@@ -42,7 +44,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="20%" align="center">
-        <span>Mysql</span><br>
+        <span>Postgresql</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
     </tr>    
