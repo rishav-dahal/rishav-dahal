@@ -47,6 +47,10 @@
         <span>Postgresql</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
+       <td width="20%" align="center">
+        <span>Open-CV</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg">
+      </td>
     </tr>    
   </tbody>
 </table>
