@@ -51,6 +51,10 @@
         <span>Open-CV</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg">
       </td>
+       <td width="20%" align="center">
+        <span>Flask</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
     </tr>    
   </tbody>
 </table>
