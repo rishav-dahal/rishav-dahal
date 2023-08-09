@@ -5,7 +5,7 @@
 - 📫 How to reach me:Email:contact@rishavdahal.com.np
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishav-dahal&show_icons=true" alt="rishav-dahal" /> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishav-dahal&show_icons=true" alt="rishav-dahal" /> 
 
 </p>
 
@@ -59,10 +59,8 @@
   </tbody>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-dahal&layout=compact&theme=tokyonight)](https://github.com/rishav-dahal/github-readme-stats)
-#### Profile Visits 
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishav-dahal&layout=compact&theme=tokyonight)](https://github.com/rishav-dahal/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rishav-dahal.rishav-dahal)
 <!---
 risaav/risaav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
