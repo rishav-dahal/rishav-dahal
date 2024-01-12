@@ -9,7 +9,7 @@
 
 </p>
 
-### Programming Languages 🌐
+### Programming Languages & Tools 🌐
 <table>
   <tbody>
     <tr valign="top">
@@ -54,6 +54,12 @@
        <td width="20%" align="center">
         <span>Flask</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
+    </tr>    
+     <tr>
+      <td width="20%" align="center">
+        <span>Django</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
     </tr>    
   </tbody>
