@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @risaav
-- 👀 I’m interested in web development machine learning and cloud computing.
-- 🌱 I’m currently learning software engineering
+- 👋 Hi, I’m Rishav
+- 👀 I’m activaly involved in backend-web-development, machine learning and cloud computing.
+- 🌱 I’m currently pursuring software engineering
 - 💞️ I’m looking to collaborate on startup which involves any new sector
 - 📫 How to reach me:Email:contact@rishavdahal.com.np
 
@@ -30,38 +30,36 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
-        <span>Mysql</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-    </tr>
-    <tr>
-      <td width="20%" align="center">
-        <span>Python</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="20%" align="center">
         <span>Java</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="20%" align="center">
-        <span>Postgresql</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
        <td width="20%" align="center">
+        <span>Python</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>
+    <tr>
+     <td width="20%" align="center">
+        <span>Mysql</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="20%" align="center">
         <span>Open-CV</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg">
       </td>
-       <td width="20%" align="center">
+         <td width="20%" align="center">
+        <span>Postgresql</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="20%" align="center">
         <span>Flask</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
       </td>
-    </tr>    
-     <tr>
       <td width="20%" align="center">
         <span>Django</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
-    </tr>    
+    </tr>       
   </tbody>
 </table>
 
