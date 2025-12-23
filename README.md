@@ -1,5 +1,5 @@
 # Hi, I'm Rishav Dahal 👋
-### Senior Backend & DevOps Engineer 
+### Backend & DevOps Engineer 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Architecture-Backend-0052CC?style=for-the-badge" />
