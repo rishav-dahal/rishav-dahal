@@ -1,71 +1,52 @@
-- 👋 Hi, I’m Rishav
-- 👀 I’m activaly involved in backend-web-development, machine learning and cloud computing.
-- 🌱 I’m currently pursuring software engineering
-- 💞️ I’m looking to collaborate on startup which involves any new sector
-- 📫 How to reach me:Email:contact@rishavdahal.com.np
+# Hi, I'm Rishav Dahal 👋
+### Senior Backend & DevOps Engineer 
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishav-dahal&show_icons=true" alt="rishav-dahal" /> 
-
+  <img src="https://img.shields.io/badge/Architecture-Backend-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Infrastructure-DevOps-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/ML-Integration-8A2BE2?style=for-the-badge&logo=scikitlearn" />
 </p>
 
-### Programming Languages & Tools 🌐
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>C</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>C++</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
-       <td width="20%" align="center">
-        <span>Javascript</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>PHP</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Java</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-       <td width="20%" align="center">
-        <span>Python</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-    <tr>
-     <td width="20%" align="center">
-        <span>Mysql</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Open-CV</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/opencv.svg">
-      </td>
-         <td width="20%" align="center">
-        <span>Postgresql</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Flask</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Django</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
-      </td>
-    </tr>       
-  </tbody>
-</table>
+I bridge the gap between robust backend logic and scalable cloud infrastructure. My work focuses on building high-availability systems, automating CI/CD pipelines, and integrating machine learning models into production environments.
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishav-dahal&layout=compact&theme=tokyonight)](https://github.com/rishav-dahal/github-readme-stats)
+---
 
-<!---
-risaav/risaav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Expertise & Specializations
+
+- **Backend Engineering:** Architecting scalable APIs and microservices using Python (Django/Flask), JavaScript, and PHP.
+- **DevOps & Cloud:** Expert in containerization, infrastructure-as-code, and managing cloud deployments (AWS/GCP).
+- **Machine Learning:** Productionizing models with a focus on OpenCV and data-driven backend integration.
+- **Database Management:** Optimizing complex queries and schema design for PostgreSQL and MySQL.
+
+---
+
+### 🧰 Technical Toolbox
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, C++, PHP, Java , GO |
+| **Frameworks** | Django, Flask, GO Fibre |
+| **DevOps/Cloud** | Docker, CI/CD, Terraform, GCP, AWS |
+| **Data/ML** | PostgreSQL, MySQL, Redis, OpenCV, Scikit-learn |
+
+---
+
+### 📈 GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishav-dahal&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishav's Stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishav-dahal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### 🤝 Strategic Collaboration
+I am specifically looking to partner with **early-stage startups** or **innovative ventures** looking for a technical lead to build their MVP or scale their infrastructure from the ground up.
+
+- 💬 **Ask me about:** System design, deployment automation, and backend optimization.
+- 📧 **Direct Contact:** [contact@rishavdahal.com.np](mailto:contact@rishavdahal.com.np)
+- 🌍 **Portfolio:** [rishavdahal.com.np](https://rishavdahal.com.np)
+
+---
+<p align="right">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+</p>
