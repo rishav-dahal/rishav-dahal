@@ -48,5 +48,5 @@ I am specifically looking to partner with **early-stage startups** or **innovati
 
 ---
 <p align="right">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/risaavdahal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
 </p>
